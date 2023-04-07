@@ -1,0 +1,130 @@
+.wrapper {
+    box-sizing: border-box;
+}
+
+body {
+    border: 1px solid black;
+}
+
+h1 marquee {
+    color: #efefef;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: gold;
+}
+
+.content {
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.kiri {
+    width: 50%;
+    float: left;
+    padding: 0 20px;
+}
+
+.kiri h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kiri p {
+    text-align: justify;
+}
+
+.kiri img {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    position: center;
+}
+
+.kanan {
+    width: 50%;
+    float: right;
+    padding: 0 20px;
+}
+
+.kanan h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kanan p {
+    text-align: justify;
+}
+
+.kanan img {
+    width: 200px;
+    float: right;
+    margin-left: 20px;
+}
+
+.bawah {
+    width: 100%;
+    float: left;
+}
+
+.bawah img {
+    width: 500px;
+    margin-right: 20px;
+    margin: auto;
+    display: block;
+}
+
+.bawah p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.bawah h4 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bawah2 {
+    width: 100%;
+    float: left;
+}
+
+.bawah2 img {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+.bawah2 p {
+    text-align: justify;
+}
+
+.bawah2 h4 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.bawah3 {
+    width: 100%;
+}
+
+.bawah3 img {
+    width: 200px;
+    margin-right: 20px;
+}
+
+.bawah3 p {
+    text-align: justify;
+}
+
+.bawah3 h4 {
+    text-align: center;
+    text-transform: uppercase;
+    margin: 20px 0;
+}
+
+.bawah3 {
+    text-align: center;
+}
